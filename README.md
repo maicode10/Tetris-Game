@@ -52,11 +52,8 @@ python t_client.py
 - Game ends when pieces reach the top
 - Score increases with lines cleared
 
-## Screenshots
-(Add screenshots of your game here)
-
 ## Credits
-Created by Maira Lorraine
+Created by Maira Lorraine Domaog
 
 ## License
 MIT License
